@@ -48,8 +48,9 @@ const AboutMe = () => {
             <a href="mailto:brijeshdudhbhategmail.com">
               {" "}
               <img src={email} alt="bru121" className="imgab4" />
+              Email - brijeshdudhbhate@gmail.com
             </a>
-            Email - brijeshdudhbhate@gmail.com
+
             {/* <a href="mailto:brijeshdudhbhate@gmail.com"></a> */}
           </div>{" "}
           <div className="ab7">
