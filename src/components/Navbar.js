@@ -1,21 +1,19 @@
 import React from "react";
-import Brijesh from "./images/Brijesh.jpg";
+// import Brijesh from "./images/Brijesh.jpg";
+import male from "./images/male.png";
+import "../App.css";
 
 const AppBar = () => {
   return (
-    <div>
+    <div className="appbar">
       <div className="nav0">
         <nav>
-          <h2> Portfolio - Brijesh </h2>
+          <h2 className="appbar1">
+            {" "}
+            Portfolio - Brijesh{" "}
+            <img src={male} className="nav12" alt="bru 45" />{" "}
+          </h2>
         </nav>
-
-        <div className="bru0">
-          <a className="navbar-brand" href="/">
-            <div className="bru1">
-              <img src={Brijesh} className="img-fluid" alt="bru" />
-            </div>
-          </a>
-        </div>
       </div>
     </div>
   );
