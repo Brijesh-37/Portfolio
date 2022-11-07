@@ -87,3 +87,13 @@ background-color:rgb(226, 214, 199);
 .pr23{
   padding-right: 10px;
 }
+
+.pr4{
+text-align: center;
+  align-items: stretch;
+  padding-top: 20px;
+  display: flex;
+}
+.pr43{
+  padding-right: 10px;
+}

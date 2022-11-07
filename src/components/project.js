@@ -32,6 +32,18 @@ const Project = () => {
               <h6>Click here To See The Project</h6>
             </a>
           </li>
+
+          <li className="pr4">
+            <h6 className="pr43">Form-Validation</h6>
+            <a
+              href="https://form-validation-pearl-one.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              <h6>Click here To See The Project</h6>
+            </a>
+          </li>
         </ul>
       </div>
     </div>
