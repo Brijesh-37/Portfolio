@@ -20,6 +20,29 @@ const Project = () => {
               <h6>Click here To See The Project</h6>
             </a>
           </li>
+          <li className="pr4">
+            <h6 className="pr43">Digital clock</h6>
+            <a
+              href="https://digital-clock-sandy.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              <h6>Click here To See The Project</h6>
+            </a>
+          </li>
+
+          <li className="pr4">
+            <h6 className="pr43">Covid-Tracker</h6>
+            <a
+              href="https://covid-tracker-e1ar1zzu5-brijesh-37.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              <h6>Click here To See The Project</h6>
+            </a>
+          </li>
 
           <li className="pr3">
             <h6 className="pr23">Portfolio</h6>
